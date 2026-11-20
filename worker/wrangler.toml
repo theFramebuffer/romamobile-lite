@@ -1,0 +1,7 @@
+name = "romamobile-lite"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+
+[vars]
+# Where GitHub Pages serves the data (no trailing slash). Change this!
+DATA_URL = "https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME"
