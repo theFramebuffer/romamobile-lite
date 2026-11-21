@@ -6,7 +6,7 @@ const TU_URL = "https://romamobilita.it/sites/default/files/rome_rtgtfs_trip_upd
 const VP_URL = "https://romamobilita.it/sites/default/files/rome_rtgtfs_vehicle_positions_feed.pb";
 
 const S = {
-  title: "Roma mobile lite",
+  title: "RomaMobile Lite",
   search: "Cerca fermata",
   go: "Cerca",
   hint: "Nome della fermata (o il suo numero)",
@@ -23,7 +23,7 @@ const S = {
   soon: "in arrivo",
   atstop: "alla fermata",
   next: "prossima",
-  credit: "Dati: Roma Servizi per la Mobilita, CC BY-SA",
+  credit: "Dati: Roma Servizi per la Mobilità, CC BY-SA",
   err: "Errore",
 };
 
