@@ -16,7 +16,7 @@ https://romamobile-lite.pages.dev/
 ## Setup
 
 ### 1. GitHub
-1. Fork this repo and make it public
+1. Fork this repo and make it public.
 2. Go into Settings -> Pages -> **Build and deployment -> Source: GitHub Actions**.
 3. Go into the Actions tab -> "Build stop data" -> **Run workflow**. Wait for the green tick.
 4. Open `https://YOUR-USERNAME.github.io/YOUR-REPO/stops.json`. If you see a long list, the data is live.
